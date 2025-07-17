@@ -206,8 +206,4 @@ REACT_APP_API_BASE_URL=https://tu-api.com
 
 ## 🤝 Contribuir
 
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/nueva-caracteristica`)
-3. Commit tus cambios (`git commit -am 'Agrega nueva característica'`)
-4. Push a la rama (`git push origin feature/nueva-caracteristica`)
-5. Abre un Pull Request
+proyecto: https://github.com/maxramirez473/reactIntro.git
